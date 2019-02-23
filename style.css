@@ -1,20 +1,38 @@
 #quoteDisplay{
-    font-family: 'Courier New', Courier, monospace;
-    color: black;
-    padding: 50px;
+    font-family: cursive;
+    color: white;
+    padding-top: 50px;
+    padding-right: 40px;
     margin-left: 150px;
+    position: relative;
 }
 
 h1{
     font-family: cursive;
+    color: white;
     text-align: center;
-    color: black;
 }
 
 body{
-    background: url(https://cdn2.vectorstock.com/i/1000x1000/83/21/landscape-the-starry-night-sky-banner-the-vector-13388321.jpg);
+    background: url(https://static.vecteezy.com/system/resources/previews/000/095/074/original/milky-way-background-vector.jpg);
+    background-size: 100vw 100vh;
 }
 
 #combine{
     border: black solid 2px;
+    padding-right: 150px;
+    margin-top: 100px;
+    margin-left: 270px;
+    width: 50%;
+    overflow: hidden;
+    height: 400px;
+}
+
+button{
+    font-family: cursive;
+    border-radius: 50px;
+    border-color: none;
+    outline: 0;
+    position: absolute;
+    bottom: 200px;
 }
