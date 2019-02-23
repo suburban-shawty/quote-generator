@@ -1,4 +1,4 @@
-#quote-display{
+#quoteDisplay{
     font-family: 'Courier New', Courier, monospace;
     color: magenta;
     padding: 50px;
@@ -9,4 +9,8 @@ h1{
     font-family: cursive;
     text-align: center;
     color: magenta;
+}
+
+body{
+    background: url(https://i.ytimg.com/vi/cg_zhVD1f_k/maxresdefault.jpg);
 }
