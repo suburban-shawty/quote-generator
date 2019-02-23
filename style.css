@@ -35,4 +35,5 @@ button{
     outline: 0;
     position: absolute;
     bottom: 200px;
+    border: black solid 1px;
 }
