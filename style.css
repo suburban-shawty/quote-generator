@@ -1,3 +1,6 @@
-button{
-    size: 100px;
+#quote-display{
+    font-family: 'Courier New', Courier, monospace;
+    color: magenta;
+    padding: 50px;
+    margin-left: 50px;
 }
