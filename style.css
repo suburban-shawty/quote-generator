@@ -1,6 +1,6 @@
 #quoteDisplay{
     font-family: 'Courier New', Courier, monospace;
-    color: magenta;
+    color: black;
     padding: 50px;
     margin-left: 150px;
 }
@@ -8,9 +8,13 @@
 h1{
     font-family: cursive;
     text-align: center;
-    color: magenta;
+    color: black;
 }
 
 body{
     background: url(https://i.ytimg.com/vi/cg_zhVD1f_k/maxresdefault.jpg);
+}
+
+#combine{
+    border: black solid 1px;
 }
